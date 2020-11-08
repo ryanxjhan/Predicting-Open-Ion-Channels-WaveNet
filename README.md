@@ -1,1 +1,1 @@
-# Predicting-Open-Ion-Channels-WaveNet
+# Predicting Open Ion Channels: WaveNet
